@@ -1,0 +1,24 @@
+{
+  "name": "dimavr457",
+  "version": "1.0.0",
+  "description": "dimavlas54@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimavla4566/dimavr457.git"
+  },
+  "dependencies": {
+    "wereider45yrt": "^1.0.0",
+    "nneder457": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimavla4566/dimavr457/issues"
+  },
+  "homepage": "https://github.com/dimavla4566/dimavr457#readme"
+}
